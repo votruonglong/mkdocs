@@ -1,4 +1,4 @@
-# Welcome to mkdocs Truong Long
+# Welcome to Mkdocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
