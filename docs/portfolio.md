@@ -6,7 +6,7 @@ Chào mừng đến với trang portfolio của tôi! Dưới đây là một s�
 
 Mô tả: Dự án này là một website bán hàng đơn giản, được xây dựng bằng Python và Flask.
 
-![Website Bán Hàng](/path/to/project1/image.png)
+![Website Bán Hàng](/images/images.png)
 
 Đường dẫn GitHub: [Project 1 GitHub](https://github.com/your_username/project1)
 
@@ -14,7 +14,7 @@ Mô tả: Dự án này là một website bán hàng đơn giản, được xây
 
 Mô tả: Đây là một ứng dụng quản lý công việc cá nhân, được viết bằng JavaScript và React.
 
-![Ứng Dụng Quản Lý Công Việc](/path/to/project2/image.png)
+![Ứng Dụng Quản Lý Công Việc](/images/images.png)
 
 Đường dẫn GitHub: [Project 2 GitHub](https://github.com/your_username/project2)
 
@@ -22,7 +22,7 @@ Mô tả: Đây là một ứng dụng quản lý công việc cá nhân, đư�
 
 Mô tả: Blog cá nhân của tôi, nơi tôi chia sẻ những suy nghĩ và kiến thức của mình về công nghệ và lập trình.
 
-![Blog Cá Nhân](/path/to/project3/image.png)
+![Blog Cá Nhân](/images/images.png)
 
 Đường dẫn GitHub: [Project 3 GitHub](https://github.com/your_username/project3)
 
