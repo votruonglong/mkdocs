@@ -1,1 +1,3 @@
 site_name: Truong Long
+theme:
+      name: material
